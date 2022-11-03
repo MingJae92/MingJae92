@@ -10,5 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also very passionate about Taekwondo, I hold a black belt 3rd dan and loves teaching students! 
 
-[image](https://user-images.githubusercontent.com/24756182/199632666-3d5c9247-2f2e-45c9-ab5e-5d1c43a3861a.png)
 
