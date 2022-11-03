@@ -10,5 +10,5 @@ I have a great passion for building full stack web applications for clients. My 
 - 📫 How to reach me: via email for now, wong_mingchi@yahoo.co.uk or on LinkedIn which can be found on my profile page.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also very passionate about Taekwondo, I hold a black belt 3rd dan and loves teaching students! 
-
+!https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
 
