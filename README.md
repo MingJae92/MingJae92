@@ -4,7 +4,7 @@ I have a great passion for building full stack web applications for clients. My 
 
 - 🔭 I’m currently working on a client project called MercuryJC! 
 - 🌱 I’m currently learning React and how to implement backend systems
-- 👯 I’m looking to collaborate on open source projects!
+- 👯 I’m looking to collaborate on open source and build projects together!
 - 🌱 I’m currently learning MongoDB and ExpressJS!
 - 💬 Ask me about anything ReactJS, I have a great passion building full stack web applications!
 - 📫 How to reach me: via email for now, wong_mingchi@yahoo.co.uk or on LinkedIn which can be found on my profile page.
