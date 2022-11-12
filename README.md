@@ -2,7 +2,7 @@
 
 I have a great passion for building full stack web applications for clients. My favourite front end library is React and combining them with backend systems to create fully fledge applications. I can build anything I want which excites me! I want to show the world all my amazing applications! 
 
-- 🔭 I’m currently working on a client project called MercuryJC! 
+- 🔭 I’m currently working on a client project called MercuryJC2! 
 - 🌱 I’m currently learning React and how to implement backend systems
 - 👯 I’m looking to collaborate on open source and build projects together!
 - 🌱 I’m currently learning MongoDB and ExpressJS!
